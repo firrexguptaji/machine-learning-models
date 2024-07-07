@@ -1,2 +1,2 @@
 # machine-learning-prediction-models
-Project on machine learning 
+18 Projects on machine learning 
